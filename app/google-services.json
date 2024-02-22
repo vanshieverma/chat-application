@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459463551535",
+    "firebase_url": "https://chat-application-5c7fa-default-rtdb.firebaseio.com",
+    "project_id": "chat-application-5c7fa",
+    "storage_bucket": "chat-application-5c7fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459463551535:android:42e8ccfb2f60ae262a34da",
+        "android_client_info": {
+          "package_name": "com.vanshika.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_rXT8Z4J2F8GDeFyG8fyQjHVA1GvJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

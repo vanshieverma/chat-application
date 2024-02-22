@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="log_out">Log out</string>
+    <string name="txt_vanshika">Vanshika</string>
+    <string name="txt_this_is_received">This is received message</string>
+    <string name="txt_this_is_sent">This is sent message</string>
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_make_a_password">Make a password</string>
+    <string name="txt_enter_your_email_address">Enter your Email address</string>
+    <string name="txt_enter_your_name">Enter your name</string>
+    <string name="txt_logo">LOGO</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_or">or</string>
+    <string name="txt_log_in">Log In</string>
+    <string name="txt_enter_password">Enter your Password</string>
+    <string name="txt_enter_email">Enter your Email address</string>
+    <string name="txt_chat_now">Chat now!</string>
+    <string name="txt_type_a_message">Type a message</string>
+    <string name="txt_banner">Banner\n</string>
+</resources>

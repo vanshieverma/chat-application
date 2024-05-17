@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/yellow"
+    android:background="@color/grey1"
     android:fitsSystemWindows="true"
     tools:context=".SignupActivity">
 
@@ -14,7 +14,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="70dp"
         android:contentDescription="@string/txt_logo"
-        android:src="@drawable/banner" />
+        android:src="@drawable/ic_launcher" />
 
     <EditText
         android:id="@+id/edtName"
